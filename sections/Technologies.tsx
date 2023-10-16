@@ -30,10 +30,7 @@ const Technologies = () => (
         variants={fadeIn("left", "tween", 0.2, 1)}
         className="flex-[0.75] flex justify-center flex-col"
       >
-        <TypingText
-          title="| Technologies"
-          textStyles="text-center text-[20px]"
-        />
+        <TypingText title="| Skills" textStyles="text-center text-[20px]" />
         <div className="mt-[31px] grid grid-cols-2 gap-[24px]">
           {technologies.map((feature, index) => (
             <TechnologyItem

@@ -1,18 +1,18 @@
 export const projects = [
   {
     id: "spotify-clone",
-    title: "Spotify-Web-Clone",
+    title: "Spotify Web Clone",
     imgUrl: "/planet-01.png",
     subtitle: "NextJS, Tailwind CSS, Typescript",
     redirect: "https://github.com/manasishah-11/nextjs-spotify-clone",
   },
-  // {
-  //   id: "carousell-replica",
-  //   title: "Coursell App Replica",
-  //   imgUrl: "/planet-02.png",
-  //   subtitle: "React Native",
-  //   redirect: "https://github.com/manasishah-11/reactNative-carousell-replica",
-  // },
+  {
+    id: "ecommerce",
+    title: "E-commerce Web App",
+    imgUrl: "/planet-02.png",
+    subtitle: "Next JS",
+    redirect: "https://github.com/manasishah-11/nextjs-ecommerce",
+  },
   {
     id: "shop-app",
     title: "E-commerce App",
@@ -42,7 +42,7 @@ export const technologies = [
   "ReactJS",
   "React Native",
   "NextJS",
-  "Tailwind CSS",
+  "DSA",
 ];
 
 export const socials = [
